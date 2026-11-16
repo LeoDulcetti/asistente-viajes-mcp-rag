@@ -1,0 +1,9 @@
+langchain>=1.0,<2.0
+langgraph>=1.0,<2.0
+langchain-groq>=1.0,<2.0
+langchain-mcp-adapters>=0.3
+rank-bm25>=0.2
+fastembed>=0.7
+numpy
+python-dotenv>=1.0
+pytest>=8.0
